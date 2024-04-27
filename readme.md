@@ -1,6 +1,6 @@
 
-# Create Readme Md - Generate a beautiful  and effective readme.md file.
-Generate a beautiful  and effective readme.md file.
+# Create Readme Md - Generate a beautifulk and effective readme.md file.
+Generate a beautifulk and effective readme.md file.
 
 ![Image image_filename](code.png)
 
