@@ -1,6 +1,6 @@
 
-# Create Readme Md - Generate a beautifulk and effective readme.md file.
-Generate a beautifulk and effective readme.md file.
+# Create Readme Md - Generate a beautiful and effective readme.md file.
+Generate a beautiful and effective readme.md file.
 
 ![Image image_filename](code.png)
 
@@ -37,4 +37,4 @@ To get started with the **Create Readme Md** solution repository, follow these s
 ![Developer](developer.png)
 
 ![Brand](brand.png)
-    ## Deliverables or Figures![additional_image](create_readme_md.png)  <br>
+    ## Deliverables or Figures![additional_image](create_readme_md.png)  <br>![additional_image](solution_sign.png)  <br>![additional_image](solution_stacked_sign.png)  <br>
