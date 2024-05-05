@@ -47,5 +47,5 @@ To get started with the **Create Readme Md** solution repository, follow these s
 ![Brand](brand.png)
     
 ## Deliverables or Figures
- ![additional_image](create_readme_md.png)  <br>![additional_image](solution_stacked_sign.png)  <br>
+ ![additional_image](create_readme_md.png)  <br>
     
