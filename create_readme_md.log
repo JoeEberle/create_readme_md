@@ -1,9 +1,9 @@
-2024-05-23 01:17:37,783 - INFO - START create_readme_md =============================================
-2024-05-23 01:17:37,783 - INFO - START create_readme_md Start Time = 2024-05-23 01:17:37
-2024-05-23 01:17:37,783 - INFO - create_readme_md Step 0 - Initialize the configuration file parser
-2024-05-23 01:17:37,783 - INFO - Process create_readme_md Step 0 - Initializing and starting Logging Process.
-2024-05-23 01:17:41,131 - INFO - PERFORMANCE create_readme_md The total process duration was:3.35
-2024-05-23 01:17:41,132 - INFO - PERFORMANCE create_readme_md Stop Time = 2024-05-23 01:17:41
-2024-05-23 01:17:41,132 - INFO - PERFORMANCE create_readme_md Low process duration less than 3 minutes:3.35
-2024-05-23 01:17:41,132 - INFO - PERFORMANCE create_readme_md Performance optimization is optional
-2024-05-23 01:17:41,132 - INFO - END create_readme_md =============================================
+2024-05-23 01:34:13,102 - INFO - START create_readme_md =============================================
+2024-05-23 01:34:13,103 - INFO - START create_readme_md Start Time = 2024-05-23 01:34:13
+2024-05-23 01:34:13,103 - INFO - create_readme_md Step 0 - Initialize the configuration file parser
+2024-05-23 01:34:13,103 - INFO - Process create_readme_md Step 0 - Initializing and starting Logging Process.
+2024-05-23 01:34:16,200 - INFO - PERFORMANCE create_readme_md The total process duration was:3.10
+2024-05-23 01:34:16,200 - INFO - PERFORMANCE create_readme_md Stop Time = 2024-05-23 01:34:16
+2024-05-23 01:34:16,200 - INFO - PERFORMANCE create_readme_md Low process duration less than 3 minutes:3.10
+2024-05-23 01:34:16,200 - INFO - PERFORMANCE create_readme_md Performance optimization is optional
+2024-05-23 01:34:16,200 - INFO - END create_readme_md =============================================
