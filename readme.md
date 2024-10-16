@@ -42,11 +42,8 @@ To get started with the **Create Readme Md** solution repository, follow these s
  ![additional_image](create_readme_md.png)  <br>
     
 
-## Github    
-## https://github.com/JoeEberle/ 
-
-## Email 
-## josepheberle@outlook.com 
+## Github    https://github.com/JoeEberle/ 
+## Email  josepheberle@outlook.com 
 
     
 ![Developer](developer.png)
