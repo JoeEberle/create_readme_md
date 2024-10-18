@@ -3288,3 +3288,31 @@
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
                                                                                                                         
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2024-10-17 21:12:12,182 - INFO - START create_readme_md =============================================
+2024-10-17 21:12:12,183 - INFO - START create_readme_md Start Time = 2024-10-17 21:12:12
+2024-10-17 21:12:12,183 - INFO - create_readme_md Step 0 - Initialize the configuration file parser
+2024-10-17 21:12:12,183 - INFO - Process create_readme_md Step 0 - Initializing and starting Logging Process.
+2024-10-17 21:12:18,467 - INFO - PERFORMANCE create_readme_md The total process duration was:6.28
+2024-10-17 21:12:18,467 - INFO - PERFORMANCE create_readme_md Stop Time = 2024-10-17 21:12:18
+2024-10-17 21:12:18,467 - INFO - PERFORMANCE create_readme_md Low process duration less than 3 minutes:6.28
+2024-10-17 21:12:18,467 - INFO - PERFORMANCE create_readme_md Performance optimization is optional
+2024-10-17 21:12:18,467 - INFO - END create_readme_md =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2024-10-17 21:12:31,554 - INFO - START create_readme_md =============================================
+2024-10-17 21:12:31,554 - INFO - START create_readme_md Start Time = 2024-10-17 21:12:31
+2024-10-17 21:12:31,555 - INFO - create_readme_md Step 0 - Initialize the configuration file parser
+2024-10-17 21:12:31,555 - INFO - Process create_readme_md Step 0 - Initializing and starting Logging Process.
+2024-10-17 21:12:37,044 - INFO - PERFORMANCE create_readme_md The total process duration was:5.49
+2024-10-17 21:12:37,044 - INFO - PERFORMANCE create_readme_md Stop Time = 2024-10-17 21:12:37
+2024-10-17 21:12:37,044 - INFO - PERFORMANCE create_readme_md Low process duration less than 3 minutes:5.49
+2024-10-17 21:12:37,044 - INFO - PERFORMANCE create_readme_md Performance optimization is optional
+2024-10-17 21:12:37,045 - INFO - END create_readme_md =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
