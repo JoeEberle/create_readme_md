@@ -4,7 +4,20 @@
 
 ## Generate a beautiful and effective readme.md file.
 
-    ![Image image_filename](code.png)
+    
+# Table of Contents
+
+- [Solution Overview](#Solution-Overview)
+- [Return on Investment (ROI)](#return-on-investment-roi)
+- [How it Works](#how-it-works)
+- [Conclusion](#conclusion)
+- [Getting Started](#getting-started)
+- [Solution Features](#solution-features)
+- [Notebook Features](#notebook-features)
+- [Deliverables or Figures](#deliverables-or-figures)
+- [Contact Information](#contact-information)
+
+![Image image_filename](code.png)
 The **README.md file** is a common practice in software development projects, serving as a user-friendly introduction and guide to the project. 
 
 Typically written in Markdown format for **easy formatting and readability**, this file provides essential information about the project, such as its purpose, features, installation instructions, usage guidelines, and contribution guidelines. 
