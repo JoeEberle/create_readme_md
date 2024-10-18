@@ -5,7 +5,7 @@ Typically written in Markdown format for **easy formatting and readability**, th
 
 The **README.md file** acts as a central hub for stakeholders, including developers, collaborators, and users, to quickly understand the project's goals, functionalities, and how to interact with it effectively. Its primary purpose is to facilitate communication and collaboration, ensuring that everyone involved in the project has access to relevant information and resources to contribute effectively and utilize the project to its fullest potential.
 
-![Image image_filename](sample.png)
+![Image image_filename](code.png)![Image image_filename](sample.png)
 ## Getting Started
 
 The goal of this solution is to **Jump Start** your development and have you up and running in 30 minutes. 
