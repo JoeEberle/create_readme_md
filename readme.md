@@ -1,4 +1,7 @@
-![Image image_filename](solution_sign.png)# Create Readme Md - Generate a beautiful and effective readme.md file.![Image image_filename](code.png)
+![Image image_filename](solution_sign.png)
+    # Create Readme Md 
+    ## Generate a beautiful and effective readme.md file.
+    ![Image image_filename](code.png)
 The **README.md file** is a common practice in software development projects, serving as a user-friendly introduction and guide to the project. 
 
 Typically written in Markdown format for **easy formatting and readability**, this file provides essential information about the project, such as its purpose, features, installation instructions, usage guidelines, and contribution guidelines. 
@@ -15,12 +18,15 @@ To get started with the **Create Readme Md** solution repository, follow these s
 2. Install the required dependencies listed at the top of the notebook.
 3. Explore the example code provided in the repository and experiment.
 4. Run the notebook and make it your own - **EASY !**
-    
+    ## Getting Started
 ## Solution Features
+
 - Easy to understand and use  
 - Easily Configurable 
 - Quickly start your project with pre-built templates
 - Its Fast and Automated
+- Saves You Time 
+
 
 ## Notebook Features
 
