@@ -21,16 +21,7 @@ To get started with the **Create Readme Md** solution repository, follow these s
 2. Install the required dependencies listed at the top of the notebook.
 3. Explore the example code provided in the repository and experiment.
 4. Run the notebook and make it your own - **EASY !**
-    ## Getting Started
-## Solution Features
-
-- Easy to understand and use  
-- Easily Configurable 
-- Quickly start your project with pre-built templates
-- Its Fast and Automated
-- Saves You Time 
-
-
+    
 ## Code Features
 
 These features are designed to provide everything you need for **Create Readme Md** 
