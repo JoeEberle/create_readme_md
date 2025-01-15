@@ -3988,3 +3988,45 @@
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
                                                                                                                         
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2025-01-12 21:14:18,017 - INFO - START create_readme_md =============================================
+2025-01-12 21:14:18,017 - INFO - START create_readme_md Start Time = 2025-01-12 21:14:18
+2025-01-12 21:14:18,017 - INFO - create_readme_md Step 0 - Initialize the configuration file parser
+2025-01-12 21:14:18,017 - INFO - Process create_readme_md Step 0 - Initializing and starting Logging Process.
+2025-01-12 21:14:24,056 - INFO - PERFORMANCE create_readme_md The total process duration was:6.04
+2025-01-12 21:14:24,056 - INFO - PERFORMANCE create_readme_md Stop Time = 2025-01-12 21:14:24
+2025-01-12 21:14:24,056 - INFO - PERFORMANCE create_readme_md Low process duration less than 3 minutes:6.04
+2025-01-12 21:14:24,056 - INFO - PERFORMANCE create_readme_md Performance optimization is optional
+2025-01-12 21:14:24,056 - INFO - END create_readme_md =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2025-01-12 21:17:33,024 - INFO - START create_readme_md =============================================
+2025-01-12 21:17:33,024 - INFO - START create_readme_md Start Time = 2025-01-12 21:17:33
+2025-01-12 21:17:33,024 - INFO - create_readme_md Step 0 - Initialize the configuration file parser
+2025-01-12 21:17:33,025 - INFO - Process create_readme_md Step 0 - Initializing and starting Logging Process.
+2025-01-12 21:17:39,005 - INFO - PERFORMANCE create_readme_md The total process duration was:5.98
+2025-01-12 21:17:39,005 - INFO - PERFORMANCE create_readme_md Stop Time = 2025-01-12 21:17:39
+2025-01-12 21:17:39,005 - INFO - PERFORMANCE create_readme_md Low process duration less than 3 minutes:5.98
+2025-01-12 21:17:39,005 - INFO - PERFORMANCE create_readme_md Performance optimization is optional
+2025-01-12 21:17:39,005 - INFO - END create_readme_md =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2025-01-15 00:10:48,366 - INFO - START create_readme_md =============================================
+2025-01-15 00:10:48,366 - INFO - START create_readme_md Start Time = 2025-01-15 00:10:48
+2025-01-15 00:10:48,366 - INFO - create_readme_md Step 0 - Initialize the configuration file parser
+2025-01-15 00:10:48,367 - INFO - Process create_readme_md Step 0 - Initializing and starting Logging Process.
+2025-01-15 00:10:58,469 - INFO - PERFORMANCE create_readme_md The total process duration was:10.10
+2025-01-15 00:10:58,469 - INFO - PERFORMANCE create_readme_md Stop Time = 2025-01-15 00:10:58
+2025-01-15 00:10:58,470 - INFO - PERFORMANCE create_readme_md Low process duration less than 3 minutes:10.10
+2025-01-15 00:10:58,470 - INFO - PERFORMANCE create_readme_md Performance optimization is optional
+2025-01-15 00:10:58,470 - INFO - END create_readme_md =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
