@@ -4968,3 +4968,33 @@
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
                                                                                                                         
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2025-11-12 17:05:19,044 - INFO - START create_readme_md =============================================
+2025-11-12 17:05:19,044 - INFO - START create_readme_md Start Time = 2025-11-12 17:05:19
+2025-11-12 17:05:19,044 - INFO - create_readme_md Step 0 - Initialize the configuration file parser
+2025-11-12 17:05:19,044 - INFO - Process create_readme_md Step 0 - Initializing and starting Logging Process.
+2025-11-12 17:05:20,881 - INFO - PERFORMANCE create_readme_md The total process duration was:1.84
+2025-11-12 17:05:20,881 - INFO - PERFORMANCE create_readme_md Stop Time = 2025-11-12 17:05:20
+2025-11-12 17:05:20,881 - INFO - PERFORMANCE create_readme_md Short process duration less than 3 Seconds:1.84
+2025-11-12 17:05:20,881 - INFO - PERFORMANCE create_readme_md Performance optimization is not reccomended
+2025-11-12 17:05:20,881 - INFO - END create_readme_md =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2025-11-13 15:24:19,626 - INFO - START create_readme_md =============================================
+2025-11-13 15:24:19,626 - INFO - START create_readme_md Start Time = 2025-11-13 15:24:19
+2025-11-13 15:24:19,626 - INFO - create_readme_md Step 0 - Initialize the configuration file parser
+2025-11-13 15:24:19,628 - INFO - Process create_readme_md Step 0 - Initializing and starting Logging Process.
+2025-11-13 15:24:19,734 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\josep\\anaconda3\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-11-13 15:24:19,734 - INFO - Using writeable comtypes cache directory: 'C:\Users\josep\anaconda3\Lib\site-packages\comtypes\gen'
+2025-11-13 15:24:37,291 - INFO - PERFORMANCE create_readme_md The total process duration was:17.68
+2025-11-13 15:24:37,292 - INFO - PERFORMANCE create_readme_md Stop Time = 2025-11-13 15:24:37
+2025-11-13 15:24:37,292 - INFO - PERFORMANCE create_readme_md Low process duration less than 3 minutes:17.68
+2025-11-13 15:24:37,292 - INFO - PERFORMANCE create_readme_md Performance optimization is optional
+2025-11-13 15:24:37,292 - INFO - END create_readme_md =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
