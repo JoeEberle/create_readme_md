@@ -5126,3 +5126,35 @@
 
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
                                                                                                                         
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2026-01-14 14:06:01,794 - INFO - START create_readme_md =============================================
+2026-01-14 14:06:01,794 - INFO - START create_readme_md Start Time = 2026-01-14 14:06:01
+2026-01-14 14:06:01,794 - INFO - create_readme_md Step 0 - Initialize the configuration file parser
+2026-01-14 14:06:01,794 - INFO - Process create_readme_md Step 0 - Initializing and starting Logging Process.
+2026-01-14 14:06:01,898 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\josep\\anaconda3\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-14 14:06:01,899 - INFO - Using writeable comtypes cache directory: 'C:\Users\josep\anaconda3\Lib\site-packages\comtypes\gen'
+2026-01-14 14:06:16,532 - INFO - PERFORMANCE create_readme_md The total process duration was:14.74
+2026-01-14 14:06:16,537 - INFO - PERFORMANCE create_readme_md Stop Time = 2026-01-14 14:06:16
+2026-01-14 14:06:16,537 - INFO - PERFORMANCE create_readme_md Low process duration less than 3 minutes:14.74
+2026-01-14 14:06:16,537 - INFO - PERFORMANCE create_readme_md Performance optimization is optional
+2026-01-14 14:06:16,537 - INFO - END create_readme_md =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2026-01-14 14:06:46,147 - INFO - START create_readme_md =============================================
+2026-01-14 14:06:46,147 - INFO - START create_readme_md Start Time = 2026-01-14 14:06:46
+2026-01-14 14:06:46,147 - INFO - create_readme_md Step 0 - Initialize the configuration file parser
+2026-01-14 14:06:46,149 - INFO - Process create_readme_md Step 0 - Initializing and starting Logging Process.
+2026-01-14 14:06:46,243 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\josep\\anaconda3\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-14 14:06:46,244 - INFO - Using writeable comtypes cache directory: 'C:\Users\josep\anaconda3\Lib\site-packages\comtypes\gen'
+2026-01-14 14:07:00,878 - INFO - PERFORMANCE create_readme_md The total process duration was:14.73
+2026-01-14 14:07:00,878 - INFO - PERFORMANCE create_readme_md Stop Time = 2026-01-14 14:07:00
+2026-01-14 14:07:00,878 - INFO - PERFORMANCE create_readme_md Low process duration less than 3 minutes:14.73
+2026-01-14 14:07:00,878 - INFO - PERFORMANCE create_readme_md Performance optimization is optional
+2026-01-14 14:07:00,878 - INFO - END create_readme_md =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
