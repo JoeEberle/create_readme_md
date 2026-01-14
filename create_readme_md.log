@@ -1,11 +1,11 @@
-2026-01-14 15:40:58,320 - INFO - START create_readme_md =============================================
-2026-01-14 15:40:58,320 - INFO - START create_readme_md Start Time = 2026-01-14 15:40:58
-2026-01-14 15:40:58,320 - INFO - create_readme_md Step 0 - Initialize the configuration file parser
-2026-01-14 15:40:58,320 - INFO - Process create_readme_md Step 0 - Initializing and starting Logging Process.
-2026-01-14 15:40:58,441 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\josep\\anaconda3\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
-2026-01-14 15:40:58,441 - INFO - Using writeable comtypes cache directory: 'C:\Users\josep\anaconda3\Lib\site-packages\comtypes\gen'
-2026-01-14 15:41:13,448 - INFO - PERFORMANCE create_readme_md The total process duration was:15.13
-2026-01-14 15:41:13,448 - INFO - PERFORMANCE create_readme_md Stop Time = 2026-01-14 15:41:13
-2026-01-14 15:41:13,448 - INFO - PERFORMANCE create_readme_md Low process duration less than 3 minutes:15.13
-2026-01-14 15:41:13,449 - INFO - PERFORMANCE create_readme_md Performance optimization is optional
-2026-01-14 15:41:13,449 - INFO - END create_readme_md =============================================
+2026-01-14 16:04:56,895 - INFO - START create_readme_md =============================================
+2026-01-14 16:04:56,895 - INFO - START create_readme_md Start Time = 2026-01-14 16:04:56
+2026-01-14 16:04:56,895 - INFO - create_readme_md Step 0 - Initialize the configuration file parser
+2026-01-14 16:04:56,895 - INFO - Process create_readme_md Step 0 - Initializing and starting Logging Process.
+2026-01-14 16:04:57,000 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\josep\\anaconda3\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-01-14 16:04:57,000 - INFO - Using writeable comtypes cache directory: 'C:\Users\josep\anaconda3\Lib\site-packages\comtypes\gen'
+2026-01-14 16:05:11,898 - INFO - PERFORMANCE create_readme_md The total process duration was:15.00
+2026-01-14 16:05:11,898 - INFO - PERFORMANCE create_readme_md Stop Time = 2026-01-14 16:05:11
+2026-01-14 16:05:11,899 - INFO - PERFORMANCE create_readme_md Low process duration less than 3 minutes:15.00
+2026-01-14 16:05:11,899 - INFO - PERFORMANCE create_readme_md Performance optimization is optional
+2026-01-14 16:05:11,899 - INFO - END create_readme_md =============================================
