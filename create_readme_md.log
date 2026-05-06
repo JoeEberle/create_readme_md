@@ -1,11 +1,14 @@
-2026-01-14 16:51:24,199 - INFO - START create_readme_md =============================================
-2026-01-14 16:51:24,199 - INFO - START create_readme_md Start Time = 2026-01-14 16:51:24
-2026-01-14 16:51:24,199 - INFO - create_readme_md Step 0 - Initialize the configuration file parser
-2026-01-14 16:51:24,199 - INFO - Process create_readme_md Step 0 - Initializing and starting Logging Process.
-2026-01-14 16:51:24,294 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\josep\\anaconda3\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
-2026-01-14 16:51:24,294 - INFO - Using writeable comtypes cache directory: 'C:\Users\josep\anaconda3\Lib\site-packages\comtypes\gen'
-2026-01-14 16:51:40,408 - INFO - PERFORMANCE create_readme_md The total process duration was:16.21
-2026-01-14 16:51:40,409 - INFO - PERFORMANCE create_readme_md Stop Time = 2026-01-14 16:51:40
-2026-01-14 16:51:40,409 - INFO - PERFORMANCE create_readme_md Low process duration less than 3 minutes:16.21
-2026-01-14 16:51:40,409 - INFO - PERFORMANCE create_readme_md Performance optimization is optional
-2026-01-14 16:51:40,409 - INFO - END create_readme_md =============================================
+2026-05-04 14:22:22,641 - INFO - START create_readme_md =============================================
+2026-05-04 14:22:22,641 - INFO - START create_readme_md Start Time = 2026-05-04 14:22:22
+2026-05-04 14:22:22,641 - INFO - create_readme_md Step 0 - Initialize the configuration file parser
+2026-05-04 14:22:22,642 - INFO - Process create_readme_md Step 0 - Initializing and starting Logging Process.
+2026-05-04 14:22:22,768 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\josep\\anaconda3\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2026-05-04 14:22:22,768 - INFO - Using writeable comtypes cache directory: 'C:\Users\josep\anaconda3\Lib\site-packages\comtypes\gen'
+2026-05-05 14:31:08,701 - ERROR - No such comm target registered: jupyter.widget.control
+2026-05-05 14:31:08,706 - WARNING - No such comm: 69b77924-5f32-437b-8ac6-f8053f125d4b
+2026-05-06 11:28:03,705 - ERROR - No such comm target registered: jupyter.widget.control
+2026-05-06 11:28:03,712 - WARNING - No such comm: 9f22a024-5136-4971-a15e-1a3dab1f5d60
+2026-05-06 11:46:34,184 - ERROR - No such comm target registered: jupyter.widget.control
+2026-05-06 11:46:34,188 - WARNING - No such comm: 12906309-fbd1-419c-9b4e-cb54a5188711
+2026-05-06 13:46:25,585 - ERROR - No such comm target registered: jupyter.widget.control
+2026-05-06 13:46:25,589 - WARNING - No such comm: 2f72c82e-4c22-43cd-8b20-c4e30ffaa13a
